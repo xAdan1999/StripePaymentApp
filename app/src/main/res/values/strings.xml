@@ -1,0 +1,26 @@
+<resources>
+    <!--HEADER-->
+    <string name="app_name">Stripe Payment</string>
+    <string name="img_description">Image</string>
+
+    <!--SPLASHSCREN-->
+    <string name="icon_with_text">S</string>
+
+    <!--AMOUNT ACTIVITY-->
+    <string name="btn_500">$500</string>
+    <string name="btn_1000">$1,000</string>
+    <string name="btn_5000">$5,000</string>
+    <string name="btn_10000">$10,000</string>
+    <string name="tv_cantidades">Cantidades</string>
+    <string name="tv_otra_cantidad">Otra cantidad</string>
+    <string name="et_cantidad_inicial">$0</string>
+    <string name="btn_procesar">Procesar</string>
+
+    <!--PAY ACTIVITY-->
+    <string name="tv_cantidad">Cantidad</string>
+    <string name="symbol">$</string>
+    <string name="tv_initial_amount">10,000</string>
+    <string name="tv_datos">Ingresa los datos de tu tarjeta</string>
+    <string name="btn_transaccion">Realizar transacción</string>
+    <string name="btn_espera">Espera…</string>
+</resources>
